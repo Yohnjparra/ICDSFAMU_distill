@@ -1,15 +1,18 @@
 ---
 title: "ICDS"
 description: |
-  Welcome to the website. I hope you enjoy it!
+  Infussion Computational Data Science (ICDS) Across Curriculum at Florida A&M University
 site: distill::distill_website
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
-
 ```
 
+
+![](SociaScience.png){width=200}
+
+## About ICDS:
+
+## Members:

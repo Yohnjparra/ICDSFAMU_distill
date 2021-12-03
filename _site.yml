@@ -1,12 +1,14 @@
 name: "website"
 title: "ICDS"
 description: |
-  ICDS
+  Infussion Conputational Data Science Across Curriculum at Florida A&M University
 output_dir: "_site"
 navbar:
   right:
-    - text: "Home"
-      href: index.html
     - text: "About"
-      href: about.html
+      href: index.html
+    - text: "Members"
+      href: blog.html
+    - icon: fa fa-github
+      href: https://github.com/ICDSFAMU
 output: distill::distill_article
